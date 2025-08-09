@@ -1,0 +1,14 @@
+[[redirects]]
+  from = "/login/"
+  to = "/.netlify/functions/login"
+  status = 200
+
+[[redirects]]
+  from = "/promise/"
+  to = "/.netlify/functions/promise"
+  status = 200
+
+[[redirects]]
+  from = "/fetch/"
+  to = "/.netlify/functions/fetch"
+  status = 200
